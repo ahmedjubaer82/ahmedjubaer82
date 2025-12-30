@@ -26,7 +26,7 @@ Feel free to ask me about web development, React.js, CSS frameworks, Firebase in
 I want to work as a web developer/designer to contribute my skills and continue growing in the field of web development.
 
 ## 📫 How to reach me  
-You can reach me via email at [ahmedjubaer82@gmail.com] or through my LinkedIn profile at [https://www.linkedin.com/in/ahmed-jubaer-b4806a202/] .
+You can reach me via email at ahmedjubaer82@gmail.com or through my LinkedIn profile at https://www.linkedin.com/in/ahmed-jubaer-b4806a202/ .
 
 <!---
 - 👀 I’m interested in ...
